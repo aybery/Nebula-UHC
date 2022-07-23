@@ -1,0 +1,7 @@
+name: Nebula UHC
+version: '${project.version}'
+main: co.apex.nebulauhc.nebulauhc.Nebulauhc
+api-version: 1.16
+prefix: Nebula
+load: STARTUP
+authors: [ Loopzii, Hyperwheelie ]
